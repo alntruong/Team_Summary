@@ -136,8 +136,6 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
   * Role-specific property (School, link to GitHub profile, or office number)
 
-https://github.com/alntruong/Team_Summary.git
-
 ![image](https://user-images.githubusercontent.com/88170746/146766726-2d56bbf6-e9e7-4a2a-891a-1b58f165ea87.png)
 
 
