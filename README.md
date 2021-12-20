@@ -136,20 +136,9 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
   * Role-specific property (School, link to GitHub profile, or office number)
 
-## Bonus
+https://github.com/alntruong/Team_Summary.git
 
-* Use validation to ensure that the information provided is in the proper expected format.
-
-* Add the application to your portfolio.
+![image](https://user-images.githubusercontent.com/88170746/146766726-2d56bbf6-e9e7-4a2a-891a-1b58f165ea87.png)
 
 
-## Submission on BCS
 
-You are required to submit the following:
-
-* The URL of the GitHub repository
-
-* A video demonstrating the entirety of the app's functionality 
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
